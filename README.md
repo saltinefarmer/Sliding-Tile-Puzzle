@@ -12,6 +12,7 @@ https://medium.com/swlh/looking-into-k-puzzle-heuristics-6189318eaca2
 https://cdn.aaai.org/AAAI/1996/AAAI96-178.pdf
 Were used to learn and employ the linear conflict heuristic and the last tile heuristic.
 
+Our textbook was Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron.
 # Instructions
 solver.py utilizes the heapq package.
 slidingpuzzle.py utilizes the sys and tkinter packages.
